@@ -52,3 +52,11 @@ variable "ingress_ports_list" {
 #  }
 #}
 
+variable "access_key" {
+  
+}
+
+variable "secre_key" {
+  
+}
+
