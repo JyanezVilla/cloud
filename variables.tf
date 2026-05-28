@@ -56,7 +56,7 @@ variable "access_key" {
   
 }
 
-variable "secre_key" {
-  
+variable "secret_key" {
+
 }
 
