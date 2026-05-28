@@ -53,9 +53,13 @@ variable "ingress_ports_list" {
 #}
 
 variable "access_key" {
+  type        = string
+  description = "La clave de acceso de AWS"
   
 }
 
 variable "secret_key" {
+  type        = string
+  description = "La clave secreta de AWS"
 
 }
